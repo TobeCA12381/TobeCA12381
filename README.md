@@ -4,7 +4,7 @@
 <img src= "https://media1.tenor.com/m/OyCBoVtkg7YAAAAd/ellen-joe-zzz.gif">
 
 ### About Me 💻🎮
--Systems Engineering student at [Universidad Privada del Norte][University]. <img src="UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
+-Systems Engineering student at [Universidad Privada del Norte][University]. <img src="ICONS/UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
 
 -Lima, Peru. <img src="https://cdn-icons-png.flaticon.com/512/14009/14009756.png" width="30" height="30" style="vertical-align:-9px;" >
 
