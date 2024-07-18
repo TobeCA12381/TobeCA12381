@@ -27,32 +27,32 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Coding
 
-<img alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
+<img align="left" alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
 <!--C#++-->
 
 
 <!--C++-->
 
-<img alt="C++" width="100" height="100" src="ICONS/C++.png" />
+<img align="left" alt="C++" width="100" height="100" src="ICONS/C++.png" />
 
 <!--JAVA+-->
-<img alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
+<img align="left" alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
 
 <!--HTML-->
-<img alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
+<img align="left" alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
 
 
 <!--CSS-->
 
-<img alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
+<img align="left" alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
 
 <!--JS-->
 
-<img alt="JS" width="110" height="110" src="ICONS/JS.png" />
+<img align="left" alt="JS" width="110" height="110" src="ICONS/JS.png" />
 <!--php-->
-<img alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
+<img align="left" alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
 <!--python-->
-<img alt="PY" width="110" height="110" src="ICONS/PY.png" />
+<img align="left" alt="PY" width="110" height="110" src="ICONS/PY.png" />
 
 ---
 
