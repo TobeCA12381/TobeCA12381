@@ -7,7 +7,7 @@
 
 [![Spotify](https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify)](https://open.spotify.com/user/Zuko)
 
-[<img src="prueba-aag8p3mub-tobes-projects-fa1188b3.vercel.app" alt="naviscode spotify playing" width="350" />]()
+[<img src="https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />]()
 
 ### About Me 💻🎮
 -Systems Engineering student at [Universidad Privada del Norte][University]. <img src="ICONS/UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
