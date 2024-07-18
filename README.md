@@ -1,9 +1,21 @@
 ## Hi [TobeCA12381][website]👋
 ---
 
-<img src= "https://media1.tenor.com/m/OyCBoVtkg7YAAAAd/ellen-joe-zzz.gif"> 
 
+ <div align="center">
+<!-- <a href="https://discord.com> -->
 
+   <img src="https://lanyard.kyrie25.me/api/528278850371715073?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+</br>
+</br>
+
+  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
+  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
+  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
+<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
+<p><a href="https://www.youtube.com/watch?v=y6hk7er4fto">𝕿𝖍𝖊 𝕶𝖎𝖓𝖌'𝖘 𝕬𝖋𝖋𝖎𝖗𝖒𝖆𝖙𝖎𝖔𝖓- 𝖎 𝖜𝖎𝖑𝖑 𝖇𝖊 𝖔𝖓𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖌𝖗𝖊𝖆𝖙𝖊𝖘𝖙 </a><p>
+  
+</div>
 
 ### About Me 💻🎮
 -Systems Engineering student at [Universidad Privada del Norte][University]. <img src="ICONS/UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
@@ -83,6 +95,14 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=TobeCA12381&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+  
+  ---
+
 ## 📘 Last posts
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -129,26 +149,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
  ---
 
- <div align="center">
-<!-- <a href="https://discord.com> -->
-
-   <img src="https://lanyard.kyrie25.me/api/528278850371715073?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-</br>
-</br>
-
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-<p><a href="https://www.youtube.com/watch?v=y6hk7er4fto">𝕿𝖍𝖊 𝕶𝖎𝖓𝖌'𝖘 𝕬𝖋𝖋𝖎𝖗𝖒𝖆𝖙𝖎𝖔𝖓- 𝖎 𝖜𝖎𝖑𝖑 𝖇𝖊 𝖔𝖓𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖌𝖗𝖊𝖆𝖙𝖊𝖘𝖙 </a><p>
-  
-</div>
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=TobeCA12381&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-  
 [website]: https://github.com/TobeCA12381
 [University]:https://www.upn.edu.pe/
