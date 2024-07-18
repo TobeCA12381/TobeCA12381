@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 <!-- Lenguajes de Programación y Tecnologías Web -->
 <div style="overflow: auto;">
-    <img align="left" alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
-    <img align="left" alt="C++" width="100" height="100" src="ICONS/C++.png" />
-    <img align="left" alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
-    <img align="left" alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
-    <img align="left" alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
-    <img align="left" alt="JS" width="110" height="110" src="ICONS/JS.png" />
-    <img align="left" alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
-    <img align="left" alt="PY" width="110" height="110" src="ICONS/PY.png" />
+    <img align="auto" alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
+    <img align="auto" alt="C++" width="100" height="100" src="ICONS/C++.png" />
+    <img align="auto" alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
+    <img align="auto" alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
+    <img align="auto" alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
+    <img align="auto" alt="JS" width="110" height="110" src="ICONS/JS.png" />
+    <img align="auto" alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
+    <img align="auto" alt="PY" width="110" height="110" src="ICONS/PY.png" />
 </div>
 
 ---
