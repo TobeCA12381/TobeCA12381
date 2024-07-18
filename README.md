@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeCA12381)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### 👨‍💻 Coding
+---
 <!-- Lenguajes de Programación y Tecnologías Web -->
 <div style="overflow: auto;">
     <img align="left" alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
@@ -37,14 +38,14 @@ Here are some ideas to get you started:
     <img align="left" alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
     <img align="left" alt="PY" width="110" height="110" src="ICONS/PY.png" />
 </div>
-
+---
 <!-- Frameworks y Entornos de Desarrollo -->
 <div style="overflow: auto;">
     <img align="left" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
     <img align="left" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
     <img align="left" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
 </div>
-
+---
 <!-- Bases de Datos -->
 <div style="overflow: auto;">
     <img align="left" alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
@@ -52,18 +53,18 @@ Here are some ideas to get you started:
     <img align="left" alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
     <img align="left" alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
 </div>
-
+---
 <!-- Servicios en la Nube -->
 <div style="overflow: auto;">
     <img align="left" alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
     <img align="left" alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
 </div>
-
+---
 <!-- Desarrollo Móvil -->
 <div style="overflow: auto;">
     <img align="left" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
 </div>
-
+---
 
 
 <!--LINKS-->
