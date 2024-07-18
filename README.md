@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="clear: both;"></div>
-
+---
 <!-- Frameworks y Entornos de Desarrollo -->
 <div>
     <img align="left" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="clear: both;"></div>
-
+---
 <!-- Bases de Datos -->
 <div>
     <img align="left" alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="clear: both;"></div>
-
+---
 <!-- Servicios en la Nube -->
 <div>
     <img align="left" alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="clear: both;"></div>
-
+---
 <!-- Desarrollo Móvil -->
 <div>
     <img align="left" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
