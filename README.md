@@ -45,12 +45,39 @@ Here are some ideas to get you started:
 
 <!-- Frameworks y Entornos de Desarrollo -->
 <div style="overflow: auto;">
-    <img align="left" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
-    <img align="left" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
-    <img align="left" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
+    <img align="auto" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
+    <img align="auto" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
+    <img align="auto" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
+</div>
+---
+### 👨‍💻 Bases de Datos
+
+<!-- Bases de Datos -->
+<div style="overflow: auto;">
+    <img align="auto" alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
+    <img align="auto" alt="ORACLE" width="120" height="120" src="ICONS/ORACLE.png" />
+    <img align="auto" alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
+    <img align="auto" alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
 </div>
 
+---
 
+### 👨‍💻 Servicios en la Nube
+<!-- Servicios en la Nube -->
+<div style="overflow: auto;">
+    <img align="auto" alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
+    <img align="auto" alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
+</div>
+
+---
+
+### 👨‍💻 Desarrollo Móvil
+<!-- Desarrollo Móvil -->
+<div style="overflow: auto;">
+    <img align="auto" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
+</div>
+
+---
 
 <!--LINKS-->
 
