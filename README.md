@@ -92,5 +92,9 @@ Here are some ideas to get you started:
 
 <!--LINKS-->
 
+###🎧 Spotify Playing
+
+[<img src="prueba-aag8p3mub-tobes-projects-fa1188b3.vercel.app" alt="naviscode spotify playing" width="350" />]()
+
 [website]: https://github.com/TobeCA12381
 [University]:https://www.upn.edu.pe/
