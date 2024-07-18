@@ -3,11 +3,7 @@
 
 <img src= "https://media1.tenor.com/m/OyCBoVtkg7YAAAAd/ellen-joe-zzz.gif"> 
 
-### 🎧 Spotify Playing
 
-[![Spotify](https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify)](https://open.spotify.com/user/Zuko)
-
-[<img src="https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />]()
 
 ### About Me 💻🎮
 -Systems Engineering student at [Universidad Privada del Norte][University]. <img src="ICONS/UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
@@ -96,9 +92,15 @@ Here are some ideas to get you started:
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify)](https://open.spotify.com/user/Zuko)
+
+[<img src="https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify" alt="tobe spotify playing" width="350" />]()
+
+
 <!--LINKS-->
-
-
 
 
 [website]: https://github.com/TobeCA12381
