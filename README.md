@@ -93,13 +93,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify)](https://open.spotify.com/user/Zuko)
-
-[<img src="https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify" alt="tobe spotify playing" width="350" />]()
-
-
 <!--LINKS-->
 
 ## Contact Me :
@@ -137,7 +130,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  ---
 
  <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
+<!-- <a href="https://discord.com> -->
 
    <img src="https://lanyard.kyrie25.me/api/528278850371715073?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 </br>
