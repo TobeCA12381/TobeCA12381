@@ -81,6 +81,8 @@ Here are some ideas to get you started:
     <img align="auto" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeCA12381)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📘 Last posts
