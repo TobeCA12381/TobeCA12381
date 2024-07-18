@@ -1,7 +1,13 @@
 ## Hi [TobeCA12381][website]👋
 ---
 
-<img src= "https://media1.tenor.com/m/OyCBoVtkg7YAAAAd/ellen-joe-zzz.gif">
+<img src= "https://media1.tenor.com/m/OyCBoVtkg7YAAAAd/ellen-joe-zzz.gif"> 
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify)](https://open.spotify.com/user/Zuko)
+
+[<img src="prueba-aag8p3mub-tobes-projects-fa1188b3.vercel.app" alt="naviscode spotify playing" width="350" />]()
 
 ### About Me 💻🎮
 -Systems Engineering student at [Universidad Privada del Norte][University]. <img src="ICONS/UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
@@ -92,9 +98,8 @@ Here are some ideas to get you started:
 
 <!--LINKS-->
 
-###🎧 Spotify Playing
 
-[<img src="prueba-aag8p3mub-tobes-projects-fa1188b3.vercel.app" alt="naviscode spotify playing" width="350" />]()
+
 
 [website]: https://github.com/TobeCA12381
 [University]:https://www.upn.edu.pe/
