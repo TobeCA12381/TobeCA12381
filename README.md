@@ -5,7 +5,8 @@
  <div align="center">
 <!-- <a href="https://discord.com> -->
 
-   <img src="https://lanyard.kyrie25.me/api/528278850371715073?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+   <img src="https://lanyard.kyrie25.me/api/528278850371715073?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />       
+
 </br>
 </br>
 
