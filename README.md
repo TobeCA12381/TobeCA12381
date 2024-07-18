@@ -1,7 +1,6 @@
 ## Hi [TobeCA12381][website]👋
 ---
 
-
  <div align="center">
 <!-- <a href="https://discord.com> -->
 
@@ -18,7 +17,9 @@
   
 </div>
 
+---
 ### About Me 💻🎮
+
 -Systems Engineering student at [Universidad Privada del Norte][University]. <img src="ICONS/UPN.png" alt="UPN Icon"  width="30" height="30" style="vertical-align:-5px;">
 
 -Lima, Peru. <img src="https://cdn-icons-png.flaticon.com/512/14009/14009756.png" width="30" height="30" style="vertical-align:-9px;" >
@@ -37,9 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My favorite place is Pomabamba, Ancash.
 
 
-## 👨‍💻 Coding
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeCA12381)](https://github.com/anuraghazra/github-readme-stats)-->
-
+---
 ### 👨‍💻 Lenguajes de Programación y Tecnologías Web
 
 <!-- Lenguajes de Programación y Tecnologías Web -->
@@ -55,7 +54,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ### 👨‍💻 Frameworks y Entornos de Desarrollo
 
 <!-- Frameworks y Entornos de Desarrollo -->
@@ -66,7 +64,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ### 👨‍💻 Bases de Datos
 
 <!-- Bases de Datos -->
@@ -78,7 +75,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ### 👨‍💻 Servicios en la Nube
 <!-- Servicios en la Nube -->
 <div style="overflow: auto;">
@@ -87,7 +83,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ### 👨‍💻 Desarrollo Móvil
 <!-- Desarrollo Móvil -->
 <div style="overflow: auto;">
@@ -95,7 +90,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=TobeCA12381&&show_icons=true&theme=radical"/>
@@ -103,7 +97,6 @@ Here are some ideas to get you started:
   </p>
   
   ---
-
 ## 📘 Last posts
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -115,15 +108,13 @@ Here are some ideas to get you started:
 
 
 <!--LINKS-->
-
+---
 ## 📒 Contact Me :
 
 <p>
  </br>
 
-
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
@@ -148,7 +139,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
  ---
-
  ### 🎧 Spotify Playing
 
  <div align="center">
