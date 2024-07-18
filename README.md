@@ -27,68 +27,68 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Coding
 
-<img alt="C#" width="100" height="100" src="Csharp.png" />
+<img alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
 <!--C#++-->
 
 
 <!--C++-->
 
-<img alt="C++" width="100" height="100" src="C++.png" />
+<img alt="C++" width="100" height="100" src="ICONS/C++.png" />
 
 <!--JAVA+-->
-<img alt="JAVA" width="110" height="110" src="JAVA.png" />
+<img alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
 
 <!--HTML-->
-<img alt="HTML" width="110" height="110" src="HTML.png" />
+<img alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
 
 
 <!--CSS-->
 
-<img alt="CSS" width="110" height="110" src="CSS.png" />
+<img alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
 
 <!--JS-->
 
-<img alt="JS" width="110" height="110" src="JS.png" />
+<img alt="JS" width="110" height="110" src="ICONS/JS.png" />
 <!--php-->
-<img alt="PHP" width="110" height="110" src="PHP.png" />
+<img alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
 <!--python-->
-<img alt="PY" width="110" height="110" src="PY.png" />
+<img alt="PY" width="110" height="110" src="ICONS/PY.png" />
 
 ---
 
 <!--Laravel-->
-<img alt="LARAVEL" width="110" height="110" src="LARAVEL.png" />
+<img alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
 
 <!--Springboot-->
-<img alt="SPRING" width="110" height="110" src="SPRING.png" />
+<img alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
 
 <!--NodeJS-->
-<img alt="NODEJS" width="110" height="110" src="NODEJS.png" />
+<img alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
 
 ---
 
 <!--Mysql-->
-<img alt="MYSQL" width="120" height="120" src="MYSQL.png" />
+<img alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
 <!--Oracle database-->
-<img alt="ORACLE" width="120" height="120" src="ORACLE.png" />
+<img alt="ORACLE" width="120" height="120" src="ICONS/ORACLE.png" />
 
 <!--SQL Server-->
-<img alt="SQLSERVER" width="110" height="110" src="SQLSERVER.png" />
+<img alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
 <!--Mariadb-->
-<img alt="MARIADB" width="110" height="110" src="MARIADB.png" />
+<img alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
 
 ---
 
 <!--AWS CLOUD-->
 
-<img alt="AWS" width="110" height="110" src="AWS.png" />
+<img alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
 <!--Google Cloud-->
-<img alt="GOCLOUD" width="110" height="110" src="GOCLOUD.png" />
+<img alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
 
 ---
 <!--Android Studio-->
 
-<img alt="ANDROID" width="110" height="110" src="ANDROID.png" />
+<img alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
 
 <!--LINKS-->
 
