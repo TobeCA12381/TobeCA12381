@@ -26,69 +26,51 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeCA12381)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### 👨‍💻 Coding
+<!-- Lenguajes de Programación y Tecnologías Web -->
+<div>
+    <img align="left" alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
+    <img align="left" alt="C++" width="100" height="100" src="ICONS/C++.png" />
+    <img align="left" alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
+    <img align="left" alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
+    <img align="left" alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
+    <img align="left" alt="JS" width="110" height="110" src="ICONS/JS.png" />
+    <img align="left" alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
+    <img align="left" alt="PY" width="110" height="110" src="ICONS/PY.png" />
+</div>
 
-<img align="left" alt="C#" width="100" height="100" src="ICONS/Csharp.png" />
-<!--C#++-->
+<div style="clear: both;"></div>
 
+<!-- Frameworks y Entornos de Desarrollo -->
+<div>
+    <img align="left" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
+    <img align="left" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
+    <img align="left" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
+</div>
 
-<!--C++-->
+<div style="clear: both;"></div>
 
-<img align="left" alt="C++" width="100" height="100" src="ICONS/C++.png" />
+<!-- Bases de Datos -->
+<div>
+    <img align="left" alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
+    <img align="left" alt="ORACLE" width="120" height="120" src="ICONS/ORACLE.png" />
+    <img align="left" alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
+    <img align="left" alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
+</div>
 
-<!--JAVA+-->
-<img align="left" alt="JAVA" width="110" height="110" src="ICONS/JAVA.png" />
+<div style="clear: both;"></div>
 
-<!--HTML-->
-<img align="left" alt="HTML" width="110" height="110" src="ICONS/HTML.png" />
+<!-- Servicios en la Nube -->
+<div>
+    <img align="left" alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
+    <img align="left" alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
+</div>
 
+<div style="clear: both;"></div>
 
-<!--CSS-->
-
-<img align="left" alt="CSS" width="110" height="110" src="ICONS/CSS.png" />
-
-<!--JS-->
-
-<img align="left" alt="JS" width="110" height="110" src="ICONS/JS.png" />
-<!--php-->
-<img align="left" alt="PHP" width="110" height="110" src="ICONS/PHP.png" />
-<!--python-->
-<img align="left" alt="PY" width="110" height="110" src="ICONS/PY.png" />
-
----
-
-<!--Laravel-->
-<img align="left" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
-
-<!--Springboot-->
-<img align="left" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
-
-<!--NodeJS-->
-<img align="left" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
-
----
-
-<!--Mysql-->
-<img align="left" alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
-<!--Oracle database-->
-<img align="left" alt="ORACLE" width="120" height="120" src="ICONS/ORACLE.png" />
-
-<!--SQL Server-->
-<img align="left" alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
-<!--Mariadb-->
-<img align="left" alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
-
----
-
-<!--AWS CLOUD-->
-
-<img align="left" alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
-<!--Google Cloud-->
-<img align="left" alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
-
----
-<!--Android Studio-->
-
-<img align="left" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
+<!-- Desarrollo Móvil -->
+<div>
+    <img align="left" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
+</div>
 
 <!--LINKS-->
 
