@@ -1,6 +1,6 @@
 ## Hi [TobeCA12381][website]👋
 
-[<img src= "https://media1.tenor.com/m/kSiC-0wGr4kAAAAd/monkey-technology.gif">]
+<img src= "https://media1.tenor.com/m/kSiC-0wGr4kAAAAd/monkey-technology.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
