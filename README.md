@@ -83,10 +83,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobeCA12381)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📘 Last posts
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -98,22 +94,68 @@ Here are some ideas to get you started:
 
 
 ### 🎧 Spotify Playing
-<!--
+
 [![Spotify](https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify)](https://open.spotify.com/user/Zuko)
 
 [<img src="https://spotify-7vutfs96m-tobes-projects-fa1188b3.vercel.app/api/spotify" alt="tobe spotify playing" width="350" />]()
 
 
-<a href="{{https://open.spotify.com/intl-es/album/5n7GrqzEmcmhhuXmJhHBbD?si=A8ZBPsUsR_WXN6I0V6BHLw}}" class="spotify-logo">
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <title>Spotify</title>
-    <path
-      d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"
-    />
-  </svg>
+<!--LINKS-->
+
+## Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:tobe12381@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-LINKS-->
+<a href="https://www.linkedin.com/in/carlosalarconq/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/tobe12381/">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198210440389/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+</br>
+</br>
+</br>
 
 
+ ---
+
+ <div align="center">
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+
+   <img src="https://lanyard.kyrie25.me/api/528278850371715073?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+</br>
+</br>
+
+  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
+  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
+  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
+<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
+<p><a href="https://www.youtube.com/watch?v=y6hk7er4fto">𝕿𝖍𝖊 𝕶𝖎𝖓𝖌'𝖘 𝕬𝖋𝖋𝖎𝖗𝖒𝖆𝖙𝖎𝖔𝖓- 𝖎 𝖜𝖎𝖑𝖑 𝖇𝖊 𝖔𝖓𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖌𝖗𝖊𝖆𝖙𝖊𝖘𝖙 </a><p>
+  
+</div>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=TobeCA12381&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+  
 [website]: https://github.com/TobeCA12381
 [University]:https://www.upn.edu.pe/
