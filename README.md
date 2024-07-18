@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi [TobeCA12381][website]👋
 
-
-**TobeCA12381/TobeCA12381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[<img src= "https://media1.tenor.com/m/kSiC-0wGr4kAAAAd/monkey-technology.gif">]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--LINKS-->
+[website]: https://github.com/TobeCA12381
