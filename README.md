@@ -57,38 +57,38 @@ Here are some ideas to get you started:
 ---
 
 <!--Laravel-->
-<img alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
+<img align="left" alt="LARAVEL" width="110" height="110" src="ICONS/LARAVEL.png" />
 
 <!--Springboot-->
-<img alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
+<img align="left" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
 
 <!--NodeJS-->
-<img alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
+<img align="left" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
 
 ---
 
 <!--Mysql-->
-<img alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
+<img align="left" alt="MYSQL" width="120" height="120" src="ICONS/MYSQL.png" />
 <!--Oracle database-->
-<img alt="ORACLE" width="120" height="120" src="ICONS/ORACLE.png" />
+<img align="left" alt="ORACLE" width="120" height="120" src="ICONS/ORACLE.png" />
 
 <!--SQL Server-->
-<img alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
+<img align="left" alt="SQLSERVER" width="110" height="110" src="ICONS/SQLSERVER.png" />
 <!--Mariadb-->
-<img alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
+<img align="left" alt="MARIADB" width="110" height="110" src="ICONS/MARIADB.png" />
 
 ---
 
 <!--AWS CLOUD-->
 
-<img alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
+<img align="left" alt="AWS" width="110" height="110" src="ICONS/AWS.png" />
 <!--Google Cloud-->
-<img alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
+<img align="left" alt="GOCLOUD" width="110" height="110" src="ICONS/GOCLOUD.png" />
 
 ---
 <!--Android Studio-->
 
-<img alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
+<img align="left" alt="ANDROID" width="110" height="110" src="ICONS/ANDROID.png" />
 
 <!--LINKS-->
 
