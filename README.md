@@ -49,7 +49,9 @@ Here are some ideas to get you started:
     <img align="auto" alt="SPRING" width="110" height="110" src="ICONS/SPRING.png" />
     <img align="auto" alt="NODEJS" width="110" height="110" src="ICONS/NODEJS.png" />
 </div>
+
 ---
+
 ### 👨‍💻 Bases de Datos
 
 <!-- Bases de Datos -->
@@ -78,6 +80,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+## 📘 Last posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <!--LINKS-->
 
