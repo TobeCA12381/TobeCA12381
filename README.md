@@ -28,11 +28,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Automatización de la Búsqueda de Personas Desaparecidas en Lima Metropolitana Mediante Reconocimiento Facial Avanzado.
-- 🌱 I’m currently learning about network infrastructure improvement and advanced facial recognition technologies.
+- 🔭 I’m currently working on Desarrollo de un Aplicativo Móvil para la Mejora de la Seguridad Estudiantil: Un Estudio Experimental en la Universidad Privada del Norte, Lima Este,2024.
+- 🌱 I’m currently learning about network infrastructure improvement and advanced cybersecurity.
 - 👯 I’m looking to collaborate on projects related to mobile applications, student safety, and educational technology.
-- 🤔 I’m looking for help with integrating advanced recognition systems into real-time applications.
-- 💬 Ask me about my experiences with AWS, MariaDB, and SPSS.
+- 💬 Ask me about my experiences with AWS, Machine learning, and Ifurniture.
 - 📫 How to reach me: tobe12381@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite place is Pomabamba, Ancash.
